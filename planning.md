@@ -11,6 +11,9 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+I will chose to research student reviews of Organic Chemistry professors at the University of Houston.
+It's very difficult for pre medical students to find out who is actually the best professor to prepare them correctly for tests and make the course fair. 
+
 ---
 
 ## Documents
@@ -20,16 +23,21 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Ratemyprofessor | Student reviews of professors |https://www.ratemyprofessors.com/
+| 2 | Reddit | r/UniversityofHouston subreddit for UH students to discuss things about the school | https://www.reddit.com/r/UniversityOfHouston/
+| 3 | UH Edu official | chem department faculty list | https://www.uh.edu/nsm/chemistry/people/faculty/
+| 4 | CougargradesIO | grade distribution data for UH classes | https://cougargrades.io/
+| 5 | ratemyprofessor | Olafs Daugulis ochem1 reviews | https://www.ratemyprofessors.com/professor/528047
+| 6 | ratemyprofessor | Crystal young ochem1 reviews | https://www.ratemyprofessors.com/professor/2880547
+| 7 | ratemyprofessor ? mary bean reviews ochem1 | https://www.ratemyprofessors.com/professor/1156106
+| 8 | ratemyprofessor | robert comito ochem2 reviews | https://www.ratemyprofessors.com/professor/2593590
+| 9 | ratemyprofessor |bradley carrow ochem 2 reviews | https://www.ratemyprofessors.com/professor/2691934
+| 10 | ratemyprofessor ? Loi Do ochem2 | https://www.ratemyprofessors.com/professor/1916567
+
+- CHEM 2323 (previously known as CHEM 3331) = Organic Chemistry I 
+- Chem 2325 (previously known as CHEM 3332) = Organic Chemistry II
+
+
 
 ---
 
