@@ -110,7 +110,7 @@ Since the current model runs locally with no rate limits, it is limited by my ma
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
-![Diagram](Untitled%20Diagram.drawio.png)
+![Diagram](diagram.drawio.png)
 
 ---
 
