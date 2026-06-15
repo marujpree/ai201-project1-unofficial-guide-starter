@@ -1,0 +1,1171 @@
+SOURCE: Reddit - r/UniversityOfHouston
+URL: https://www.reddit.com/r/UniversityOfHouston/
+SCRAPED: 2026-06-15
+DESCRIPTION: Posts and comments from UH students discussing Organic Chemistry
+(CHEM 2323 / Organic Chemistry I and CHEM 2325 / Organic Chemistry II).
+Search terms: organic chemistry, ochem, CHEM 2323, CHEM 2325, Daugulis, Carrow ochem, Comito chemistry, Crystal Young, Mary Bean chem, Loi Do chem
+
+============================================================
+
+POST
+Title: organic chemistry 1
+Date: 2026-03-11
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1rqjwcs/organic_chemistry_1/
+
+Orgo with Dr. Chengzhi Cai Taking Orgo 1 with Dr. Chengzhi Cai this semester. Does anyone have any previous practice exams that I can use to study, or any other resources that are similar to his exams?
+
+---
+
+POST
+Title: Organic Chemistry Lab- Premed
+Date: 2025-11-08
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1orvtsm/organic_chemistry_lab_premed/
+
+Hi, I’m currently at OSS and wanted to ask if it’s possible to take the Organic Chemistry Lab at U of Houston during the summer. Is it doable to take just the lab course? If so, could you please let me know whom I should contact for more information?
+
+---
+
+POST
+Title: Should I take organic chemistry 1 at uh or a community college?
+Date: 2024-04-01
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1bsu833/should_i_take_organic_chemistry_1_at_uh_or_a/
+
+---
+
+POST
+Title: AMA: Organic Chemistry I & II + Lab Components
+Date: 2025-01-10
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1hxwc5z/ama_organic_chemistry_i_ii_lab_components/
+
+Hello Coogs! Weebly guy here! Wanted to get a jumpstart for anyone preparing for Organic Chemistry (Lecture or Laboratory sections), and wanted to know any questions, comments, or concerns that you all worried in the upcoming semester (whether in Bean Orgo II, Young or Olaf Orgo I, concerns in the Laboratory sections, or how to study to Orgo). Furthermore, would like to know if you guys would like to have me, the weebly guy, to take an Orgo Laboratory section (depending on the available sections in CHEM 2123/2125). Send your questions away!
+
+---
+
+POST
+Title: Organic Chemistry I Review post (by the Weebly Guy)
+Date: 2024-10-06
+Score: 20
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1fxbyxo/organic_chemistry_i_review_post_by_the_weebly_guy/
+
+Good day Coogs! Weebly Guy here! Organic Chemistry Exam 2 is upcoming and hoping to prepare anyone to get their best grade possible in the most difficult exam (in my opinion). So I wanted to summarize a few things to those needing an idea of what's to come into the exam. NOTE: this is not an advertisement! This is to help anyone need to prepare for the Second Exam in Organic Chemistry. Organic Chemistry I: Moving into Chapter 5 , were talking about stereochemistry where organic molecule's spatial arrangement matters! We look into what makes a carbon chiral (which is a carbon with 4 "different, unique" bonds) and oriented clockwise or counter-clockwise by the atomic number, notated by the Cahn-Ingold-Prelog system. (Note: if tied, look at the next atom attached and the tiebreaker is that carbon's bond to "its" other atoms (with the highest atomic number). Next we move into finding the types of stereoisomers, which you hears things like identical, diastereomers, enantiomers, and conformational isomers. This can be identified by using the R-S system to see the difference exposed. Now to Chapter 6, this is where the bulk of the exam has people get to struggle. First, you'll look into the details of what is exactly a substitution reaction and the relationship of their reaction rates and conditions of reactions to occur. There are 2 substitution reactions to be aware about: Sn1 and Sn2 (S := Substitution, n := nucleophilic and 1/2 := unimolecular/bimolecular). The 1 and 2 can be described as a reaction rate ( Gen chem 2 topic about Kinetics) notated as : rate = k [A][B]. One thing to note about the reaction rate is depending on this reaction model: the substrate, the nucleophile, and the leaving group. Sn1 reaction rate depends on the substrate only, meaning the rate = k[A]. On the other hand, Sn2 involves both the substrate and nucleophile (meaning the reaction rate = k[A][B]). Additionally, we can differentiate these reactions by 3 conditions derived from a reaction model (mentioned above): the substrate structure, the nucleophile, and the solvent. By the substrate structure, Sn1 is more prevalent in bulkier substrates while Sn2 is preferable in smaller groups (primary, or methane).  Nucleophile is depending on what is called "Nucleophilicity." Its define as how much more "Nucleophilic" in terms of being electrically rich. This is best to see by comparing 2 atoms. Nitrogen with a neutral formal charge is less nucleophilic than nitrogen with a negative formal charge. A common trend to see an increase in nucleophilicity is from right to left in a period ( C > N > O) and from top to bottom in a group (Oxygen > Sulfur > Selenium). Finally, solvent of the reaction matters. You may heard of 2 conditions: polar protic and polar aprotic. In these cases, polar protic has hydrogen bonds causing the strength of the nucleophile to react more slowly, showing an Sn1 reaction as a consequence. However, polar aprotic don't form hydrogen bonds and emphasize the nucleophile to react more to form its products fast. As a result will show an Sn2 reaction. Finally, be cautious of the products of substitution reactions. Sn1 will make multiple products, usually forming a racemic mixture, or other products considering carbocation rearrangement and resonance structure. In Sn2 products, make sure not to substitute on sp2 carbons since the pi bond locks out the possibility to react. A phrase Dr. Bean mentioned is "No Sn2 on sp2." Also, Sn2 products is all stereochemistry flipped (like R -> S are switch for its products and vice versa) This is only part 1 of chapter 6, the 2nd part involves a different reaction: Elimination reaction. This has similar mechanism (arrow pushing) of forming its product comparing to its molecularity, respectively. But, the product is different where how its reacting and the product is made. Usually to see this reaction, I switch my focus by treating it as a Bronsted-Lowry Acid-Base reaction. This is different in the Sn1/2 reactions where those act like Lewis acid and bases. There are 2 types of Elimination reaction :  E1 and E2. The steps are similar to its Sn counterparts, but with a different mechanism and products. One thing to consider about these reactions is the orientation of the product. Mainly these depends on the substrate structure and the other Bronsted-Lowry reactant. Lets consider the substrate structure. In most cases, E2 reaction would happen with a strong base reaction. But, the structure may change where the product is formed. Compare a branched chain vs a cyclic chain vs a bicyclic compound. All of them is possible to react in an E2 reaction, but how do I execute the proper placement of the product. This is where Exam 1 content is a must to know. An E2 with a chain substrate, use a Newman projection where the center carbons involves the leaving group and a hydrogen that is antiperiplanar (opposite sides on the same plane). E2 with a cyclic structure, use a chair conformation where the leaving group is on an axial position and an adjacent hydrogen in an axial position, too. This will show an antiperiplanar arrangement, thus guides where to make the product. Both of these arrangement shows what known as an anti-elimination reaction. Finally, in a bicyclic compound, the arrangement of where the leaving group must have whether a hydrogen is on the same side as the leaving group, also called syn-elimination reaction. Now onto the Bronsted-Lowry reactant, this is depending on how bulky this structure "is" in the reaction. Hence, many recall the 2 rules: Zaitsev's Rule and Hoffman's rule. What this rule describe is where to arrange the double bond to produce. Zaitsev's rule is on the most substituted side and Hoffman's rule is on the least substituted side (defining the substituted side as in if you formed the double bond, is there more carbon covalent bonds to this double bond arrangement? More carbon covalent bond is the more substituted than those with more hydrogen covalent bonds). Typically is used mainly on chained products, considering that you can eyeball where the possible double bond arrangement. Those are the main ones to point out in most portions of the Second exam. Now, to say a few more, depending on how fast Dr. Bean goes throughout the next 3 lectures, she may go as far to the start of Ch. 8 or short as the middle of Chapter 7 (short of involving a special E2 reaction with OH groups). So keep in mind for those looking into the notes and will see you all in the upcoming weeks! --- Weebly Guy!
+
+---
+
+POST
+Title: AMA: Organic Chemistry I & II Expectations
+Date: 2024-01-07
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/190lrpi/ama_organic_chemistry_i_ii_expectations/
+
+Hello Cougars! Comment down any questions, comments, or concerns involving Organic Chemistry I and II: exams? how to study? Workshop? Ask me Anything!!
+
+---
+
+POST
+Title: Organic Chemistry 1 Testing Times + Lab
+Date: 2024-03-18
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1bhzs3u/organic_chemistry_1_testing_times_lab/
+
+For some context, I'm planning on taking orgo 1 this coming fall semester and heard that apparently the exams are on set dates rather than scheduling like other courses. I plan on taking Bean and heard that she does her exams on Fridays which is when I ideally wanted to schedule my labs. Not sure what times she makes the exams or if we're allowed to choose a time. If any of this is true or false lmk and any recommendations/intel is greatly appreciated!
+
+---
+
+POST
+Title: What grade do I need in CHEM2323 (organic chemistry) to be able to take BCHS 3304?
+Date: 2023-11-26
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1844zrr/what_grade_do_i_need_in_chem2323_organic/
+
+What grade do I need in CHEM2323 (organic chemistry) to be able to take BCHS 3301? I am a biology major and I am trying to take BCHS 3304 ( General Biochemistry I) next semester I know that BCHS3301 has CHEM2323 as a Prerequisite. So I want to know what grade I need in CHEM2323 in order to take BCHS3304. If anyone can help with this question, it would be great!
+
+---
+
+POST
+Title: AMA Organic Chemistry Enrollment!
+Date: 2024-04-04
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1bvff2m/ama_organic_chemistry_enrollment/
+
+Hello, Coogs! I'm the Weebly guy! Please post me any questions regarding Organic Chemistry I Lab or Lecture in the upcoming semester: professor, grading, difficulty, how to prepare, what to start to know before the first day, etc. I'm here to help anyone pass through this class and make Organic Chemistry not as challenging as you think!
+
+---
+
+POST
+Title: Organic chemistry
+Date: 2023-11-09
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/17ronqn/organic_chemistry/
+
+Out of curiosity is it possible to take chemistry 2 (1312) with organic chemistry I or are there prereqs for organic chemistry I
+
+---
+
+POST
+Title: Organic Chemistry (Chem 2323) Tutor
+Date: 2023-06-17
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/14bubjs/organic_chemistry_chem_2323_tutor/
+
+Hi! I am currently taking Ochem 2323 with Zaitsev this summer and it's going really fast so I'm not able to keep track of it and the material we're learning. Is there anyone who might be able to tutor me in the subject this summer?
+
+---
+
+POST
+Title: Organic chemistry 2 exam 2 w/ Bean
+Date: 2021-03-28
+Score: 5
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/mev5rj/organic_chemistry_2_exam_2_w_bean/
+
+I took Bean’s Exam 2 for CHEM 3332 yesterday and I’ve been very depressed ever since. I’ve received a low score and I don’t know what to do. I am honestly just praying that I pass the class at this point. Is anyone feeling the same way?
+
+---
+
+POST
+Title: Organic Chemistry 1 Study Resources
+Date: 2020-11-13
+Score: 5
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/jthhvl/organic_chemistry_1_study_resources/
+
+Does anyone know of any source of practice problems similar to the Zade Faraj worksheets? Does the SEP post worksheets online anywhere perhaps?
+
+---
+
+POST
+Title: Organic Chemistry 1
+Date: 2022-01-19
+Score: 5
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/s7fzo0/organic_chemistry_1/
+
+Does anyone have a free PDF to L.G. Wade, Jr Organic Chemistry - 9th edition?
+
+---
+
+POST
+Title: Organic chemistry notes
+Date: 2021-08-18
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/p6rfa9/organic_chemistry_notes/
+
+Hello everyone, this semester I'm taking organic chemistry 1 with Dr. Bean. I am quite anxious looking at the class content and sample exams. So if anyone has/still keep their notes from previous semesters, can I have them? It is very much appreciated and thanks in advance!
+
+---
+
+POST
+Title: Would anybody happen to have the pdf for organic chemistry lab 1 manual?
+Date: 2019-01-21
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/aifzq7/would_anybody_happen_to_have_the_pdf_for_organic/
+
+---
+
+POST
+Title: Do I need organic chemistry lab 2 for medical school?
+Date: 2020-01-28
+Score: 4
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/euxayk/do_i_need_organic_chemistry_lab_2_for_medical/
+
+I've been hearing wildly different accounts of what I need to take to apply to texas medical schools. Do I need both labs or just 1? The TMDSAS requirements just says 8 hours of organic chemistry, and each lab is 2 credits. I've already taken both lectures and I do NOT want to take another semester of 6 hours  standing around waiting for things to boil. Thanks.
+
+---
+
+POST
+Title: Organic Chemistry II
+Date: 2021-01-01
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/kokmij/organic_chemistry_ii/
+
+Hi, I was wondering if anyone had any information on how difficult Robert Joseph Comito classes are, and how he is compared to Dr. bean
+
+---
+
+POST
+Title: Does anybody have the pdf for organic chemistry 2 lab manual?
+Date: 2020-08-31
+Score: 4
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/ik6m7n/does_anybody_have_the_pdf_for_organic_chemistry_2/
+
+Its labeled the UH Organic Chemistry Laboratory: Chem 3221/3222, THE SECOND EDITION. pls help
+
+---
+
+POST
+Title: organic chemistry 1 over summer.
+Date: 2018-12-27
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/aa3o0v/organic_chemistry_1_over_summer/
+
+Has anyone taken organic chem 1 over summer? If so how was it? I'm taking the lecture this spring but I'm considering pushing back the lab and taking it over summer to be able to focus solely on it and get an A. Or is it recommended to take it concurrently? I'm also taking other difficult classes which is why I think I'll take it seperately. Thanks.
+
+---
+
+POST
+Title: Has anyone taken Olafs for Organic Chemistry? Should I take him? Any tips?
+Date: 2020-01-29
+Score: 4
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/evs47a/has_anyone_taken_olafs_for_organic_chemistry/
+
+---
+
+POST
+Title: Organic Chemistry over Summer
+Date: 2018-03-21
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/863vcx/organic_chemistry_over_summer/
+
+Hey everyone, I was interested in taking Organic Chemistry I over summer as a visiting student, but after looking at the class schedule, I saw it was not listed. Does anyone know if it will be added later or if it will not be offered?
+
+---
+
+POST
+Title: Organic chemistry 1PM-2:30PM class ?
+Date: 2018-08-22
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/99a02n/organic_chemistry_1pm230pm_class/
+
+Anyone in this class on this page ? I'm looking for study buddies and good note takers. I'm pretty knowledgeable if I do say myself . Hardworker at least .hmu lol
+
+---
+
+POST
+Title: What are my chances of getting into UH Bauer College of Business
+Date: 2026-03-13
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1rspy8g/what_are_my_chances_of_getting_into_uh_bauer/
+
+What are my chances of getting into Bauer? I’m a junior in high school. I plan to major in Finance. I won’t be able to be auto-admitted unfortunately since my class is so small. I haven’t taken the SAT yet but I will on March 16. Stats: 4.0 UW / 4.2 WEIGHTED GPA Rank: School Doesn’t Do Rankings In state (TEXAS) Bilingual: English, Tagalog (fluent multiple dialects in native Philippines), Conversational in Spanish but won’t count it as a fluent language. Course Rigor: AP’s: AP World History (5) Sophomore Year AP Seminar - Junior Year AP US History  Junior Year (For senior year schedule - AP Macroeconomics, AP Government, AP Research Capstone, AP Statistics, AP Computer Science) Honors: Honors English (Pre-AP) Honors Geometry Honors Chemistry (Pre-AP) Honors Algebra II (Current Year) (Senior Year - Honors Engineering) Extracurriculars: Three Active and Profitable Businesses \- Fall 2025-Present Automobile Detailing ($4k+ profit) \- Spring 2025-Present Powerwashing ($13k+ profit) \- Spring 2023-Present Sneaker and Clothing Reselling ($10k+ profit) Personal Stock Portfolio Management 7th Grade-Present \- Used $2,000 USD of personal money to start Day-Trading Futures and Options 8th-Present \- Investes $5,000 of personal money from stock portfolio and portion of sneaker reselling profits to start Crypto Holder 9th-Summer before Junior Year \- Started with $20 and ended with $450 Student Ambassador Council Sophomore-Present National Honors Society Member Sophomore-Present National 4-H Council Member Sophomore-Present \- Vice President (Junior Year) \- Archery Member Archery Sophomore - Present \- 1st Place SYWAT Tournament (Barebow Compound) \- 21/42 SYWAT Rankings (Barebow Recurve) Chess 8th grade - Present \- FIDE Rated 1500 standard \- Competed in numerous nationally known tournaments in Dubai Primary Care Taker of Sibling with Special Needs 5th grade - Present Choir 9th - Present TAPPS Superior Solo Vocalist 3x Award Sweepstakes Award Drama 10th-Present Main role in Musical One Act Play Speech Meet Drama Tech Present Camera technician Prop technician I am also going to participate in sports next year for my senior year and will most likely do choir and drama again. I am also starting a non-profit organization for children with special needs inspired by my brother. Help is much appreciated. Thank you.
+
+---
+
+POST
+Title: Transferring
+Date: 2026-05-18
+Score: 4
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1th5dn5/transferring/
+
+Hi, I tried finding contact info for the particular issue I have but I couldn't find it. I'm looking forward to transfer to UH after finishing my freshman year at TAMU for affordable tuition (I pay around 24k a year at TAMU) I am currently majoring in Biochemistry. If I transfer, do I take Biochemistry there too or can I switch my major? The reason why I'm asking this is because I saw Biophysics on their degree plan and do not. whatsoever. want to take physics again. I'm planning to do Biology but does that mean I start from scratch even though all of my classes I take at TAMU fits into UH's degree plan? Attached is their degree plans, I also intend to go to their school of Pharmacy after undergrad. (1st photo is TAMU, 2nd is UH) Please ask questions if you think I'm missing something. Thank you for reading!
+
+---
+
+POST
+Title: Jeremy May Ochem 2
+Date: 2026-03-11
+Score: 7
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1rqnhga/jeremy_may_ochem_2/
+
+Has anyone here actually taken ochem 2 with Jeremy May? I see his rate my professor is quite good with a 4.3/5. But I’ve also heard chengzhi cai is good despite his rating as he has tons of practice exams and review sessions. However, I’ve heard he’s quite disorganized. Even Daugulis said so I was also wondering how Jeremy May’s class was organized? The comments claimed that lectures were online and lecture was mostly a homework solving session? Does he also have practice sessions and or old exams to practice? Are his exams consistent?
+
+---
+
+POST
+Title: Ochem lab manual & notebook
+Date: 2026-05-02
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1t24hrs/ochem_lab_manual_notebook/
+
+Both are lightly used (almost half the notebook is filled). I don’t need them anymore-free to anyone who can use them. Pickup on campus. DM me if interested!
+
+---
+
+POST
+Title: Ochem lab
+Date: 2025-12-15
+Score: 4
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1pnawn5/ochem_lab/
+
+I currently have have a 69.13 in the lab, the syllabus says that’s a D, what are the chances i atleast get curved up to a C
+
+---
+
+POST
+Title: Anyone have a reaction sheet for Ochem II?
+Date: 2026-02-12
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1r2x4e4/anyone_have_a_reaction_sheet_for_ochem_ii/
+
+---
+
+POST
+Title: group me for genetics biol 3301 and ochem 1
+Date: 2026-01-23
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1qkwlcj/group_me_for_genetics_biol_3301_and_ochem_1/
+
+does anyone have the group me for genetics with adam stuckert and ochem 1 with olaf pleaseeee
+
+---
+
+POST
+Title: Ochem lab 1
+Date: 2026-01-05
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1q4zqjh/ochem_lab_1/
+
+Hii 
+Anyone knows which community college will allow me to only take Ochem lab without taking its lecture
+
+---
+
+POST
+Title: Dropping OCHEM LEC without Lab
+Date: 2025-11-11
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1ouchac/dropping_ochem_lec_without_lab/
+
+Has anyone dropped Ochem lec without lab? Im waiting till the last day to drop the lec, but heard that the system drops both the lab and the lec at the same time. I'm already at the end of the lab and can't imagine doing it again.
+
+---
+
+POST
+Title: Olafs Daugulis ochem slides/notes
+Date: 2025-11-29
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1pa0jz9/olafs_daugulis_ochem_slidesnotes/
+
+Does anyone have saved notes or lecture slides of Professor olafs daugulis? I’m taking ochem soon and would like to prepare
+
+---
+
+POST
+Title: Ochem 1 with young
+Date: 2025-12-03
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1pdkcwo/ochem_1_with_young/
+
+Does anyone have her old fall/summer ochem 1 finals for 2023 and 2024. Pleaseeeeeeeee
+
+---
+
+POST
+Title: San Jac ochem attendance!
+Date: 2025-08-04
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1mh60eq/san_jac_ochem_attendance/
+
+Hey so I’m taking ochem 1 and its lab at San jac this fall, I’m doing the lecture online but the labs are in person 6pm-7:25pm on Mondays and Wednesdays, so the problem is I have club socials I would rather not miss on those days around those times. Does anyone know if it’s mandatory to go to EVERY single lab or can I miss a few when I need to. Thanks!
+
+---
+
+POST
+Title: Ochem 1
+Date: 2025-10-13
+Score: 6
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1o5apzl/ochem_1/
+
+Does anyone know anything about Reginald Mills who is teaching Ochem 1 next sem? He's an assistant professor and I don't think he's ever taught the course before. His section is the only one I can take since all other professors are teaching so late in the day.
+
+---
+
+POST
+Title: Ochem equipment
+Date: 2025-09-30
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1nullrz/ochem_equipment/
+
+Is there anywhere I could get a separatory funnel for cheaper… I do not have $120😔
+
+---
+
+POST
+Title: Ochem young exams
+Date: 2025-09-14
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1nh16sm/ochem_young_exams/
+
+Any last minute tips on how to study for it, I feel like so lost despite studying for the past week
+
+---
+
+POST
+Title: Dr Olafs old ochem 1exams
+Date: 2025-09-06
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1n9qmpf/dr_olafs_old_ochem_1exams/
+
+Does anyone have Dr Olaf’s old ochem 1exams I heard they’re the closest thing to young’s exams and she doesn’t release hers so…
+
+---
+
+POST
+Title: SUMMER CLASS BIO + Ochem
+Date: 2025-05-03
+Score: 6
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1kdh5pt/summer_class_bio_ochem/
+
+Is taking Bio 1 and bio 2 and ochem in the summer too crazy?  Is it possible to get an A. young ochem for the fall is full and everyone is saying not to take it with the other guy I don’t know please advise!!
+
+---
+
+POST
+Title: OCHEM Lab Manual and Notebook
+Date: 2025-08-25
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1mze6go/ochem_lab_manual_and_notebook/
+
+Anyone who’s opting out of CTAP and taking ochem lab, dm me if you need a lab manual and notebook for cheaper than the bookstore prices
+
+---
+
+POST
+Title: Am I going to fail ochem in the summer with young?
+Date: 2025-05-01
+Score: 5
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1kbz6bg/am_i_going_to_fail_ochem_in_the_summer_with_young/
+
+pls don’t ignore and help me out! I beg I failed spring semester and I want to redeem myself this summer but I’m afraid of also failing…. I’m enrolled in biochem for fall and I know I can’t take it without passing ochem1. 
+The only class left for ochem 1 in the fall is interfering with my other classes… Has anyone passed ochem 1 with young in the summer? Are the exams the same as olafs?
+
+---
+
+POST
+Title: Ochem 1 next semester
+Date: 2025-03-04
+Score: 7
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1j350ub/ochem_1_next_semester/
+
+Why is Bean or Olaf not reaching ochem 1 fall 2025🥲, the two options (young and miljanic) are so shitty help-
+
+---
+
+POST
+Title: Ochem passing grade for biochem
+Date: 2025-04-28
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1k9kznr/ochem_passing_grade_for_biochem/
+
+If I get a D on ochem, is that enough to go onto biochem? Or do I need at least a c? I cant seem to find anywhere that it says a c grade is necessary, it just says credit for ochem is necessary. Thanks in advance!
+
+---
+
+POST
+Title: I hate ochem
+Date: 2024-10-23
+Score: 23
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1ga0jm1/i_hate_ochem/
+
+That’s it that’s the post
+
+---
+
+POST
+Title: ochem
+Date: 2025-01-19
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1i59gpm/ochem/
+
+Hey guys! DM me if you need ochem help
+
+---
+
+POST
+Title: ochem with miljanic
+Date: 2024-03-18
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1bi1ujh/ochem_with_miljanic/
+
+so with they way my schedule plans out I can’t take ochem with bean and miljanic is my only option. any tips/advice/suggestions with the class and him as a professor?
+
+---
+
+POST
+Title: OCHEM LAB 2123, SHOULD I TAKE IT WITH OCHEM LEC OR TAKE IT IN THE NEXT SEM?
+Date: 2024-04-29
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1cfnmyl/ochem_lab_2123_should_i_take_it_with_ochem_lec_or/
+
+Heyy guys i need some advice on whoever has taken ochem lac and lab together as well as separate. I have a lot on my plate next sem and i dont want to take ochem lab and lec together. Is it worth to take lab later in the sem, or should i sell my soul to pchem in one sem??
+
+---
+
+POST
+Title: Does anyone know how to drop ochem lecture without being required to drop the lab?
+Date: 2024-02-15
+Score: 6
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1aro1oh/does_anyone_know_how_to_drop_ochem_lecture/
+
+My advisor said it was possible to keep the lab and drop the lecture, but he didn’t know how to do that.
+Also people who have done the same thing with chem lecture, can y’all answer this question? I think chemistry works the same as organic chemistry does. Thanks
+
+---
+
+POST
+Title: Ochem pre-req Grade?
+Date: 2024-04-20
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1c8e02f/ochem_prereq_grade/
+
+I’m in chem2 rn and not doing too hot. I need to take ochem and was wondering if there’s a pre-req for taking ochem like is there a grade needed besides failing lol? ALSO, if I don’t achieve the pre-req, if I retake chem2 over the summer would the credits transfer in time for ochem? my advisor isn’t helpful and idk who else to ask 😭
+
+---
+
+POST
+Title: Crystal Young Curve? 2323 Organic Chem 1
+Date: 2025-10-18
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1oa50i3/crystal_young_curve_2323_organic_chem_1/
+
+Does anyone happen to know if Dr.Young Curves? This class is miserable lol.
+
+---
+
+POST
+Title: Enrolling in chem 2323 and chem 1312 same time
+Date: 2025-08-21
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1mwkf0y/enrolling_in_chem_2323_and_chem_1312_same_time/
+
+Can I enroll in chem 2323 and chem 1312 at the same time? The enrollment system allowed me to enroll in both but the syllabus said no so do I drop?
+
+---
+
+POST
+Title: Access UH won't let me drop or swap my CHEM 2323
+Date: 2023-12-28
+Score: 8
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/18t3ll7/access_uh_wont_let_me_drop_or_swap_my_chem_2323/
+
+Ended up failing chem 1312 so I wanted to swap 2323 for a 1312 class but it won't let me, nor will it let me drop it. UH is closed rn so I can't call, any idea why it won't let me? Thanks for any help.
+
+---
+
+POST
+Title: CHEM 2323 w/Bean not using canvas?
+Date: 2023-08-22
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/15xx3vo/chem_2323_wbean_not_using_canvas/
+
+Hey, I'm not able to make it to the first week of classes and I was wondering if CHEM 2323/Organic Chem 1 with Bean is on canvas or not. The only thing I've received regarding the class was a first day email and nothing else. The class doesn't seem to be loaded in CCS either. Anyone else experiencing this? Thanks.
+
+---
+
+POST
+Title: GroupMe for chem 2323 (Bean)
+Date: 2023-08-23
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/15zjplv/groupme_for_chem_2323_bean/
+
+does anyone know of a groupme for chem 2323 or the lab? i have the afternoon class at 2:30 pm.
+
+---
+
+POST
+Title: CHEM 2323 with Ognjen S Miljanic
+Date: 2021-09-02
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/pga7f2/chem_2323_with_ognjen_s_miljanic/
+
+Whoever is taking professor Ognjen S Miljanic for this semester (Fall 2021) for orgo chem 1 lecture. If you can tell me how is the structure of his class since now we are back face to face.
+
+---
+
+POST
+Title: PHYS 2326,CHEM 2323,MATH 2415
+Date: 2021-08-18
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/p6gyk7/phys_2326chem_2323math_2415/
+
+I'm taking University Physics 2, Orgo + Lab w/Bean, and Calc 3 with Weber. I also have BIOE 2100 so 13 hours in total. Can anyone tell me how heavy/manageable this schedule is or any tips before I start?
+
+---
+
+POST
+Title: CHEM2323 Advice
+Date: 2026-05-30
+Score: 4
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1tsdth3/chem2323_advice/
+
+Hi everyone im going to be taking organic chemistry (chem 2323) with crystal young this upcoming semester. I really need to grt a A in this class so thats why Im going to start studying for it during the summer now and i was wondering if anyone knows any good resources or videos that i can use to watch and study.  Also if anyone has any general tips or advice for me and everyone else who is going to be taking this class I would great appreciate it. I am also enrolled in the sep workshop btw. You’ll get good karma from responding to this thread i promise 🙏🙏
+
+---
+
+POST
+Title: Prerequisites blocking enrollment!!
+Date: 2026-04-02
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1sahz1v/prerequisites_blocking_enrollment/
+
+Hello, I'm trying to take O Chem lecture, O Chem lab, and genetics. I'm in Chem 1311 (Chem 1) right now, and I'm enrolled in Chem 1312 (Chem 2) at a community college over the summer. The community college let me enroll in Chem 2 despite not having completed Chem 1 because I sent them proof of enrollment. Here's the issue: I can't enroll in ochem lab and lecture until I've completed Chem 1312/Chem 2, which won't be until July 14th, when the summer class ends. Same for my genetics class. I sent an email to 3 advising emails, but only one responded, "You made the decision to take courses outside of UH. If you were to take CHEM 1312/1112 at UH over the summer , the system would allow you to enroll into BIOL 3301 and CHEM 2323/2123 at UH in Fall." She sent a few more emails. But for reference, the only Chem 1312 in summer was mon/wed/fri, I commute 45 mins and can't afford to be at school 3 days a week. I work full-time over summers and already have off Sundays. That would leave me only 3 days to work, which isn't enough to make what I need for tuition. My only decision was to take Chem 2 at Lone Star over the summer. Does anyone know what to do? Is it true that there's no way for me to enroll until July 14th? This advisor has really snarky emails, and it seems like she's scolding me. I just feel really defeated.
+
+---
+
+POST
+Title: NSM Approved Natural Science Courses
+Date: 2026-01-15
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1qdvg7k/nsm_approved_natural_science_courses/
+
+Hello, I wanted to ask whether my completed courses GEOL 1303 and GEOL 1347, along with my current enrollment in PHYS 1301 with lab, would allow me to take GEOL 1302 with lab to complete the NSM approved natural sciences requirement, or if I am required to take PHYS 1302 instead. https://preview.redd.it/rcauutl2tkdg1.png?width=934&format=png&auto=webp&s=e294f6107f342dd350dca0ca1a5522e9475cadab
+
+---
+
+POST
+Title: orgo 1 lab
+Date: 2026-01-06
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1q5985j/orgo_1_lab/
+
+does this mean i cat take chem 2 lab and orgo 1 lab concurrently?
+
+---
+
+POST
+Title: NSM Natural Science Courses
+Date: 2025-08-29
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1n3eel2/nsm_natural_science_courses/
+
+I need 3 more lectures and 2 labs these are the options my advisor gave me. which should I take and which should I steer clear from.
+
+---
+
+POST
+Title: Trouble Locating Chem Class
+Date: 2025-08-25
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1mzig5t/trouble_locating_chem_class/
+
+I’m taking CHEM 2323 with Ognjen and the room says F 160 but when I look for it on UH Go it says it can’t be found? Any former students might know what building it would be in? Also, if you had the same professor, is there anything I should be aware of what I got myself into?
+
+---
+
+POST
+Title: Professor to opt for org chem 1 at uh in fall 25
+Date: 2025-04-03
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1jqpmbm/professor_to_opt_for_org_chem_1_at_uh_in_fall_25/
+
+Hi y'all, I just want to know which professor to opt for org chem 1 2323 in fall 2025 caz I couldn't get a clear view from course evaluation and rate my professor. Crystal A Young or 2.Ognjen S Miljanic
+
+---
+
+POST
+Title: rate my schedule
+Date: 2025-08-10
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1mmmtjz/rate_my_schedule/
+
+https://preview.redd.it/m9q0jshfu7if1.png?width=1486&format=png&auto=webp&s=00663ff21072c3e690a853a861b2db6f490014fc incoming sophomore, pre med psyc major. also taking cognitive psychology online.
+
+---
+
+POST
+Title: Which NSM approved natural science lectures are easiest to take?
+Date: 2025-03-20
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1jfq19i/which_nsm_approved_natural_science_lectures_are/
+
+https://preview.redd.it/17wu4rjzsupe1.png?width=1302&format=png&auto=webp&s=c969b25e5f04b300556e02f5866018ece273115f Basically trying to fulfill my natural science requirements without causing myself too much of a headache for my degree requirements.
+
+---
+
+POST
+Title: Orgo Chem
+Date: 2024-06-24
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1dn42mz/orgo_chem/
+
+Hey yall, 
+I’m on the waitlist for this Orgo chem class and I’m wondering if it is possible for me to get in the class. My waitlist position is 27 and the waitlist capacity is 50.
+
+---
+
+POST
+Title: Academic Map
+Date: 2024-05-13
+Score: 5
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1cqthzj/academic_map/
+
+This is my college journey so far majoring in Biotech. I just finished my first year, and I made a mistake not taking the bolded courses first. The underlined courses are the ones I have credit secured for after the first year. Any tips on how not to get further behind?
+
+---
+
+POST
+Title: science gpa booster
+Date: 2023-10-28
+Score: 4
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/17iozyo/science_gpa_booster/
+
+hi guys, are there any classes that are relatively easy to boost a science gpa?
+
+---
+
+POST
+Title: can I take a BCHS 3304 with D- as a pre-req?
+Date: 2023-12-06
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/18bvm9m/can_i_take_a_bchs_3304_with_d_as_a_prereq/
+
+Hey guys I am a minor in BIOL. I got D- in CHEM 2323 ( ORGO 1), am I able to take BCHS 3304 for next semester? I only need BCHS 3304 because PA school require it :(
+
+---
+
+POST
+Title: Not seeing one of my classes on canvas
+Date: 2023-08-21
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/15x7gab/not_seeing_one_of_my_classes_on_canvas/
+
+Hey guy I don’t don’t see one of my economic classes on canvas, I have no idea what to do. I have this class later today. Can someone help me.
+
+---
+
+POST
+Title: College Course Advise and UH Individual Tutor (For NSM Courses)
+Date: 2023-08-06
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/15jh697/college_course_advise_and_uh_individual_tutor_for/
+
+Hello, Cougars! I got admitted to the University of Houston in the Fall of 2019 and still working towards a Double Degree Bachelor's in Mathematics and Economics (and pursuing teacher certification in Math, Science, and parts of Social Studies). Currently, I'm in my gap year to practice and reflect on being a humble and impactful tutor to teach and assist students learn better in multiple Math and Science courses. I am offering a discount on tutoring Cougars from my original hour rate of $20/hour and offer a promotion of first-day tutor free for a try-out in needing help on their courses. Probably some of you may know me as the developer of the Organic Weebly website. There's more to come and will update with some adjustments to the Weebly website. ​ The following courses I am willing to offer (in the NSM courses) online or face-to-face: Chemistry: CHEM 1311 & 1312 (General Chemistry I & II Lecture) CHEM 2323 & 2325 (Organic Chemistry I & II Lecture) Mathematics: MATH 1314 (College Algebra) MATH 2312 (Precalculus) MATH 2413 (Calculus I) Physics: PHYS 1301 & 2325 (College & University Physics I) ​ High School (for any siblings needing help): High School Math (Algebra I, Geometry, Algebra II, Precalculus, AP Math except AP Statistics) High School Science (Biology, Chemistry, Physics) AP Economics (Macroeconomics/Microeconomics) College Planning (Theme: Optimizing college credit for the cheapest cost) I will be offering more tutoring courses in November for the Spring '24 for the following courses: CHEM 3333 (Inorganic Chemistry I) MATH 2414 (Calculus II) MATH 2415 (Calculus III) MATH 2318 (Linear Algebra) BIOL 1306/1307 (Intro to Biological Science I & II) ​ If you are interested in having a tutoring session with me, you can reply or DM me for a session on a course you need help. And remember, it is okay to ask for help. No one judges you for some extra help.
+
+---
+
+POST
+Title: Group me
+Date: 2021-09-20
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/prv2ik/group_me/
+
+Can anyone invite me to chem 2323 with miljanic and biol 3301 with farmer group me
+
+---
+
+POST
+Title: How cooked am I for Fall 2025
+Date: 2025-07-01
+Score: 22
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1lp8y8y/how_cooked_am_i_for_fall_2025/
+
+---
+
+POST
+Title: transfer/returning cullen student
+Date: 2026-01-22
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1qjx6uk/transferreturning_cullen_student/
+
+for context, i am a former UH student who attended under cullen-technology. for personal reasons, i had to stop attending after my first semester, but acquired a 3.8 UH gpa. i transferred to hcc and started taking classes to (hopefully) transfer into industrial engineering. I have managed to attain A’s and B’s in all engineering related classes, math and science included, with the exception of me having to withdraw from my phys lecture and lab last semester. the classes i have taken are as follows: cal 1 - A cal 2 - A cal 3 (in progress) diff eq - B linear algebra - B chem 1 - B chem 1 lab - A phys 2325 (in progress) phys 2125 (in progress) engi 1100 - A engi 1331 (in progress) my only dilemma is that my hcc gpa is 2.985 😭. long story short, i messed up with dual credit in high school, but i have made great attempts in trying to recover it. however, im not sure if it is enough to get me back into UH for industrial engineering. i’ve read cullen’s admission requirements on their website, along with reading posts in this subreddit, and it seems as if their recommended 3.25 is a hard 3.25. considering the courses i’ve already taken and those grades, along with the fact that i am a former UH student (>13 months), what do you think are my chances?
+
+---
+
+POST
+Title: How's my schedule?
+Date: 2023-12-27
+Score: 38
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/18rncm1/hows_my_schedule/
+
+---
+
+POST
+Title: First semester registering on time how we looking?
+Date: 2025-11-04
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1oo1i4a/first_semester_registering_on_time_how_we_looking/
+
+---
+
+POST
+Title: Current CS major but want to change to Biomedical Eng in Fall or spring (as a sophomore)
+Date: 2025-06-30
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1loc8m2/current_cs_major_but_want_to_change_to_biomedical/
+
+Hey yall, Im a rising sophomore and Im currently a CS major but I want to do Premed so I decided to switch to Biomed Eng and Im not sure how it works because the advisor for Biomed said "take some cs courses and some biomed eng classes to show ur really worth in biomed eng" but the deg plan said Intro to Eng and thats an Honors college course so im not sure if i will get in ?? also on that note whose better for chem 1 lab and lec ? Im on waitlist for the other professor that everyone likes and its on 49th waitlist...not sure what to do. my classes that i planned to take were COSC 1437 - Dan Geol 1340 - Online Hist 1301 - Online Math 2414 - Dr. Xhebli (cause Almus wouldn't fit in my sched) Physics 2325 (Waitlist 2nd) - Prof Liangzi Deng Chem 1 and lab (not sure) Engi 1100 - (Is honors so idk if there's an option for regular) (note: I will switch out some depending on ur guys suggestions) Please help me out ASAP....😭😭
+
+---
+
+POST
+Title: University Physics (phys 2325)
+Date: 2025-06-04
+Score: 6
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1l37xke/university_physics_phys_2325/
+
+How hard is physics really at UH. Especially when i'm taking classes like chem 1 lecture and calc 2. Im trying to graduate early but it's not a necessity so do you guys think it's possible to endure all of these classes especially when UH loves giving out tests so close to each other?
+
+---
+
+POST
+Title: Rate my schedule!
+Date: 2023-12-26
+Score: 12
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/18rbah6/rate_my_schedule/
+
+Biology major with a studio arts minor!
+
+---
+
+POST
+Title: Question for CS majors or other stem majors on NSM Science classes
+Date: 2025-03-15
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1jbmup5/question_for_cs_majors_or_other_stem_majors_on/
+
+I recently changed my major to CS so i'm a bit confused. Looking at this document, https://uh.edu/nsm/_docs/nsm/uac/checklists/cosc-bs.pdf I always thought I needed to take 4 consecutive science classes, (like PHYS 1301, 1302, 2325, 2326) but I don't really want to take a higher level physics class, can I take another 1301 and 1302 class like Bio or Chem? Also, are those classes I could take a CLEP test and get the credit?
+
+---
+
+POST
+Title: Spring Semester Classes
+Date: 2024-12-11
+Score: 7
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1hbv47q/spring_semester_classes/
+
+I am transferring in from a&m to ee and I have a majority of my first year classes done. calc, physics, chem, etc the issue is the engineering classes didn’t transfer over and I am required to take engi 1100. Should I retake some classes to fit the minimum 9 hr or should I go ahead and take engineering math this semester as well.
+
+---
+
+POST
+Title: I really need help
+Date: 2024-07-30
+Score: 7
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1efl1go/i_really_need_help/
+
+When i attended orientation, I could not get any help with classes. The current major I am in is Mathematics, but I wanted to be in Mechanical Engineering, and have completed the transfer form into Mechanical Engineering (soon to be confirmed?). And so I have tried to choose classes with the degree plan of Mechanical Engineering. During high school I have taken some courses. I have no idea what classes to take for my first semester. Red dashed is what I have taken, Yellow highlighted is what classes I am currently enrolled in. if this is easier to see what classes I have taken Here are my options: PHYS  2325 - MATH 2415 has one of the times conflicting with this course. ENGI 1100 - So, I dont know if I can take any engineering classes without being in the major, but the ones that are open are honors only, so I dont have the option of taking that course. HIST 1301 - Im currently in a waitlist, and it says that it is full, unavailable, there is one that is open, but its times and dates are to be announced. Should i drop the one that I am currently In? Create arts core - CLAS 3345 - Im currently in a waitlist, and it also says that it is full, unavailable. Should i unenroll and choose another class for the credit? Additional information: Should I unenroll from these classes two full classes? if I do then It says that I have to speak with a admissions counselor due to financial aid, and I know I cannot get hold of them. Should I wait it out? or should i just unenroll anyways and it wont have an effect ? I know that if i'm not a full time student, my financial aid will drop? Another Question: Do i accept my financial aid now? or later when my classes are picked? I don't know if it makes a difference?
+
+---
+
+POST
+Title: University Physics I for Fall
+Date: 2024-06-24
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1dn0jaf/university_physics_i_for_fall/
+
+Is stacking Calculus II, Chem 1311, and Chem 1111 Lab with PHYS 2325 crazy? If not, are Xiaojia Chen or Anthony Robert Timmins any good? I just need one more credit hour to be able to live on campus so I'm wondering if I should take physics or could I take a class outside of my major requirement to be able to live on campus?
+
+---
+
+POST
+Title: Transferring CC credits & IB credits
+Date: 2024-07-08
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1dy58h3/transferring_cc_credits_ib_credits/
+
+I'm planning on doing a year of community college and transferring to UH next Fall 2025. I've already cross-referenced the first-year degree plans for chemical engineering between both schools (photo below) and almost every course from my community college is equivalent and should transfer over. I plan on taking an online course for ENGI 1331 at a different institution in the fall, and receiving credit for that should be fine. The only thing that would be missing is GOVT 2306, but I'm hoping to add that into my schedule for the spring. So, granted everything transfers over, will I start as a sophomore at UH? But if certain credits like a single course don't transfer, how would that work out for continuing my major? Could I just add it into my sophomore year schedule? This might be a question for a different place, but I also want to use my IB scores to get credit for ENGL 1301/1302 and HIST 1301 so that I don't have to take those classes. I'm ordering the transcript to be sent to my CC, but would I also have to send an IB transcript to UH next year? https://preview.redd.it/h9cj83bjq9bd1.png?width=809&format=png&auto=webp&s=85d70e632a06e85dbc471ca3446ddbf1e23cab4a
+
+---
+
+POST
+Title: Transferring credits & fulfilling credits?
+Date: 2024-06-01
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1d5dyml/transferring_credits_fulfilling_credits/
+
+I’ve been interested in Chemical Engineering at UH for a long time, but it just isn’t in the means of my financial situation right now. However, I looked into the degree plan for UH and saw that the first year pretty closely aligns with the first year of a Chemistry major at my local university, except for ENGI 1100 and PHYS 2325 (but I can do PHYS 1401 & 1402). I’d be saving a significant amount of money for the exact same courses… but minus the engineering part. If I complete a year at my local college, could I technically transfer those credits to UH then take those missing first-year courses in addition to my second-year courses? Or would I need to already have those credits in order to transfer as a second-year ChemE student? Any info on the transferring process or anyone with a similar experience would be greatly appreciated!
+
+---
+
+POST
+Title: NEED HELP CLASS
+Date: 2023-08-23
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/15z6pch/need_help_class/
+
+Does anyone know if Lone Star college class Oceanography transfers to UH? It says it does here for 2022-2023 but the 2021-2022 didnt have it. So was it recently added?
+
+---
+
+POST
+Title: Late Transfer Orientation
+Date: 2023-03-06
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/11kenyb/late_transfer_orientation/
+
+My transfer orientation in on May 30th, and I've heard classes fill up quickly so I'm wondering if I'll even have a chance to enroll for any of my courses: Organic chemistry 2 +Lab - Chem 2325 +2125 Inorganic Chemistry +Lab - Chem 3333 + 3133 Calculus 3- Math 2415
+
+---
+
+POST
+Title: Transfer from San Jacinto college to UH
+Date: 2019-05-14
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/boejbc/transfer_from_san_jacinto_college_to_uh/
+
+Hey guys I'm currently a student at san jacinto, my  major is computer science. will the classes I took at san jac transfer to uh, or I will have to take some of them. Th classes that I want to know if they transfer are: -COCS 1336 -COCS 1337 -COCS 2336 -Discrete Math MATH 2305 - Linear Algebra MATH2318 - General Chemistry CHEM 1311/1111 - University Physics I PHYS 2325 - University Physics II PHYS 2326
+
+---
+
+POST
+Title: Professor Olafs daugulis
+Date: 2023-08-12
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/15owcao/professor_olafs_daugulis/
+
+Does anyone know if Professor Olafs usually teaches organic Chem 2 during the spring ?
+
+---
+
+POST
+Title: Orgo 1 Waitlist
+Date: 2025-01-12
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1hzvuo7/orgo_1_waitlist/
+
+I’m currently on the waitlist for Organic Chemistry 1 with Professor Olafs Daugulis. I started at position 55 and have moved up to 14 on the waitlist. With classes starting tomorrow, I’m wondering what my chances are of getting in. I know the last day to be added from the waitlist queue is January 21st, so I’m hoping there’s still time. Has anyone been in a similar situation, and if so, how did it go?
+
+---
+
+POST
+Title: Question about courses
+Date: 2023-12-24
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/18pjk1r/question_about_courses/
+
+What do y’all think about me taking Orgo 1 w Olafs Daugulis and college physics 2 with McElhenny together alongside some business classes this semester? Alongside working for 10 hours a week. Idk if I’m setting myself up for failure or not
+
+---
+
+POST
+Title: Fall 2025 Orgo II at UH: Comito or Cai?
+Date: 2025-08-15
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1mqo5u4/fall_2025_orgo_ii_at_uh_comito_or_cai/
+
+I’m registering for Organic Chemistry II at UH and see two professors available: Robert Comito and Chengzhi Cai. For anyone who’s taken either of them, who would you recommend and why? Also, if you have any tips for succeeding in both the ORGO II lecture and lab, I’d really appreciate it. I’m an incoming transfer student, and I’ll admit, I’m a little nervous about jumping straight into this class. Thanks in advance!
+
+---
+
+POST
+Title: Orgo 2
+Date: 2020-12-29
+Score: 14
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/km96l3/orgo_2/
+
+I was wondering if anyone could give feedback on Professor Marry bean for organic chemistry. After looking at rate my professor it seemed like she became a different person from what I had heard before. I’m to the point of changing to Robert Joseph comito if she is not worth taking anymore. Has anyone take Professor Comito ?
+
+---
+
+POST
+Title: Orgo 2 in the summer with Crystal Young
+Date: 2024-05-06
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1clwh49/orgo_2_in_the_summer_with_crystal_young/
+
+It’s the last class I need to satisfy dental school requirements and a pre requisite for my last chem minor elective. If I take it during the summer I graduate in the fall, and if I take it in the fall I’ll graduate in the spring. Just need some other opinions.
+
+---
+
+POST
+Title: crystal a young orgo 1 or 2 professor
+Date: 2024-03-06
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1b8bvdh/crystal_a_young_orgo_1_or_2_professor/
+
+has anyone at uh taken prof. crystal a young? i have never seen her on uh forums for o-chem besides bean and olaf but was just wondering if anyone had experiences in her class
+
+---
+
+POST
+Title: Need Previous Exams
+Date: 2025-01-07
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1hw2lpy/need_previous_exams/
+
+Hello, Can anyone let me know where I can find previous exams for Crystal Young for Organic Chemistry I, Im planning to take her this semester and would appreciate some previous exams to practice and know her exam structure. I know she's bad cause I had her for Chem II but I don't have any options. Thank you
+
+---
+
+POST
+Title: Need help choosing an orgo 2 professor for the fall
+Date: 2024-08-06
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1el6lie/need_help_choosing_an_orgo_2_professor_for_the/
+
+Hi y'all! I need to take Orgo 2 in the fall and I am not too sure on who to take it with. The professors listed as options are: Crystal A Young, Chengzhi Cai, and Robert Joseph Comito. Do you guys have any recs?
+
+---
+
+POST
+Title: Orgo 2 teacher
+Date: 2023-11-20
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/17zxkrf/orgo_2_teacher/
+
+For ppl that took Olaf who’d you take for Ochem 2? For fall 2023 the teachers Crystal Young and I can’t find much on her
+
+---
+
+POST
+Title: chem1312 with chen
+Date: 2024-06-30
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1dsayzl/chem1312_with_chen/
+
+Does anyone know why Chen is not teaching chem1312 next semester anymore? I had originally signed up for his class, but the section got replaced with Crystal Young. Has anyone had her for chem before?
+
+---
+
+POST
+Title: Chem 2324
+Date: 2024-04-02
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1bu7h1m/chem_2324/
+
+Who is the best to take ochem2 with
+Robert Joseph Comito
+Crystal A Young
+Chengzhi Cai
+???????
+
+---
+
+POST
+Title: How to ace organic Chem 1 and lab with Bean this upcoming fall at UH
+Date: 2023-06-11
+Score: 7
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/146go1j/how_to_ace_organic_chem_1_and_lab_with_bean_this/
+
+I am planning on taking ochem 1 and lab with bean this upcoming fall. Note: I dont have sep workshop. Does anyone have tips for how I can ace orgo 1 and lab . Do I just do old practice exams and acs worksheets?
+
+---
+
+POST
+Title: CHEM 3332 w/ Dr. Bean
+Date: 2021-01-21
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/l2ay4g/chem_3332_w_dr_bean/
+
+Hello everyone, i am taking orgo 2 with Bean this semester and i am already so lost and we’re only 2 lectures in. I was wondering if anyone knows what grade you usually need to pass this class. I know for orgo 1 the passing grade was a 50, but does anyone know what it is for orgo 2? The averages are usually much lower, so I think it’s going to be around a 40. If someone had her a year ago please let me know what the passing cutoff was.
+
+---
+
+POST
+Title: Organic Chem 1 Lab with Zaitsev? Is it any better than Bean’s?
+Date: 2019-04-09
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/bbd5c5/organic_chem_1_lab_with_zaitsev_is_it_any_better/
+
+---
+
+POST
+Title: Bean Chem 3331 Grading
+Date: 2017-11-28
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/7g5qdq/bean_chem_3331_grading/
+
+Did anyone go to the class last week and know what the estimated letter grades are?
+
+---
+
+POST
+Title: experience w/ o chem
+Date: 2025-03-26
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1jk3ld6/experience_w_o_chem/
+
+what's yalls experience with organic chem? i kinda wanna take it for my science credit but i know it's one of the harder classes
+
+---
+
+POST
+Title: organic chem 1 help + tips
+Date: 2023-05-04
+Score: 19
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1381oh1/organic_chem_1_help_tips/
+
+hii, i was hoping to get some tips on preparing myself for orgo chem 1 next fall. i really struggle with chemistry and i just want to get at atleast a B lmao. what should i do over the summer to prep? is there anything that i should practice on? any youtube playlists? btw i am taking it with bean and with a workshop next semester tyyy
+
+---
+
+POST
+Title: which to choose: olaf or bean for orgo 1
+Date: 2024-03-06
+Score: 4
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/1b7lb6d/which_to_choose_olaf_or_bean_for_orgo_1/
+
+hi, i plan on taking organic chem 1 for fall 24 but was deciding between either bean or olaf. i heard mixed feelings for both, and i do lean towards olaf, but his class is extremely late and since i commute ( i live in outer skirts of katy) i know for sure i will get really tired, since i might take early classes the next day. i do plan on taking the workshop along side, and i was just wondering if there was a possibility i could just rely on the workshops (ik bad idea but worst comes to worst). any advise is appreciated for the profs? thanks!
+
+---
+
+POST
+Title: What to do with ochem 2
+Date: 2023-02-21
+Score: 11
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/118av1m/what_to_do_with_ochem_2/
+
+I just took my first ochem 2 exam and got a 20, I got a mid B in ochem 1 and just completely bombed my first ochem 2 exam. Idk if I should drop, I’m a junior chem major and dropping would put me behind a whole year. Tips? I have bean anyone know if passing is possible(lowest exam gets dropped)
+
+---
+
+POST
+Title: Orgo lab 1
+Date: 2023-08-15
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/15s6bmz/orgo_lab_1/
+
+So I am gonna be taking organic Chem lab 1 with bean this fall 2023. Does anyone have tips for how to succeed in the lab . I heard that the quizzes and lab final can be very tough , so how can I prepare for these things and just do well overall?
+
+---
+
+POST
+Title: OCHEM 1 at HCC
+Date: 2023-08-12
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/15ov933/ochem_1_at_hcc/
+
+Hi everyone! I was wondering if anyone has taken CHEM 2423- Organic Chem 1 with Dr. Rashid Ghanbaripour? How is he and how is the class? If you have taken him, do you mind PMing me. I have some questions. Thank you so much!
+
+---
+
+POST
+Title: CHEM 3332
+Date: 2020-01-06
+Score: 4
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/ekvh96/chem_3332/
+
+Anyone know how I can prepare for the second semester of Organic Chem.? I'm a little nervous about it. I got a grade lower than I wanted in the first semester, however, I do bounce back well if I approach my studying to suit the class better.
+
+---
+
+POST
+Title: Orgo II Professors & Orgo Labs?
+Date: 2020-11-14
+Score: 3
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/jtxjtr/orgo_ii_professors_orgo_labs/
+
+Howdy, so the selection for Orgo II professors are: Bean, Mary Comito, Robert I'm currently taking Bean right now for Orgo I (*screams internally*), but I would like to know things on how Orgo II works with either professors...especially the second one (but either works). Also, how do the Orgo Labs work online? Do you sit there and watch things go kaboom on camera...or???? And it's six hours long? Do I really have to stick my eyes to the screen for six hours? Can I at least do other stuff? :( Okay, thanks!
+
+---
+
+POST
+Title: SEP workshop
+Date: 2021-08-25
+Score: 2
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/pbbkq0/sep_workshop/
+
+Hi! I took organic chem 1 with Professor Bean, and I heard that this is a hard course. Do you recommend taking the SEP workshop? My schedule is a little intense and I’m not sure what should I do. LAUNCH and ACS tutoring are helpful resources for organic chem? Or is it better to take the SEP workshop? 
+If it’s possible please let me know about it!
+
+---
+
+POST
+Title: Organic chem 1 Miljanic
+Date: 2021-08-17
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/p6e77i/organic_chem_1_miljanic/
+
+Is anyone currently enrolled for organic chemistry one with Professor miljanic? I’m currently on the waitlist and I wanted to see if the people who are currently in rolled have access to the syllabus already Or if he has posted anything on blackboard
+
+---
+
+POST
+Title: Does anyone have past final exams for CHEM 3221 (Orgo 1 lab)? I'm willing to pay.
+Date: 2017-11-09
+Score: 0
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/7bw9im/does_anyone_have_past_final_exams_for_chem_3221/
+
+Does anyone have past final exams for CHEM 3221 (Orgo 1 lab)? I'm willing to pay if anyone does. I know she changes it up each semester, but I really want and need something to study with.
+
+---
+
+POST
+Title: Organic Chem 1 Spring
+Date: 2021-11-17
+Score: 1
+URL: https://www.reddit.com/r/UniversityOfHouston/comments/qw3l46/organic_chem_1_spring/
+
+Has anyone taken Cai that can say if he has any practice problems or anything or how they work? Is his class tests like Bean?
+
+---

@@ -1,0 +1,544 @@
+SOURCE: CougarGrades.io / UH Office of Institutional Research
+DATA FROM: https://github.com/cougargrades/publicdata
+SCRAPED: 2026-06-14
+DESCRIPTION: Grade distribution for CHEM 2323 (Organic Chemistry I) and
+CHEM 2325 (Organic Chemistry II) at the University of Houston.
+Course numbers CHEM 3331 and CHEM 3332 are the former names for the same courses.
+
+Columns: A/B/C/D/F = student counts in each grade band
+Withdrew = students who dropped the course
+Avg GPA = average GPA of students who completed the course
+
+============================================================
+
+COURSE: CHEM 2323 / Organic Chemistry I
+
+PROFESSOR: Mary B Bean
+Overall average GPA across all sections and semesters: 2.381
+Semesters taught this course: 4
+
+  Fall 2021  (term avg GPA: 2.089)
+  Section 2: A=40 B=52 C=71 D=35 F=36  Withdrew=54  Avg GPA=2.069
+  Section 1: A=45 B=53 C=70 D=32 F=39  Withdrew=53  Avg GPA=2.109
+  Fall 2022  (term avg GPA: 2.579)
+  Section 1: A=79 B=71 C=66 D=13 F=22  Withdrew=39  Avg GPA=2.676
+  Section 2: A=75 B=48 C=74 D=19 F=27  Withdrew=48  Avg GPA=2.482
+  Fall 2023  (term avg GPA: 2.327)
+  Section 1: A=61 B=73 C=77 D=33 F=29  Withdrew=34  Avg GPA=2.379
+  Section 2: A=41 B=74 C=84 D=30 F=30  Withdrew=47  Avg GPA=2.276
+  Fall 2024  (term avg GPA: 2.526)
+  Section 1: A=63 B=71 C=81 D=16 F=13  Withdrew=59  Avg GPA=2.612
+  Section 2: A=65 B=62 C=80 D=19 F=29  Withdrew=49  Avg GPA=2.441
+
+---
+
+PROFESSOR: Chengzhi Cai
+Overall average GPA across all sections and semesters: 1.915
+Semesters taught this course: 2
+
+  Spring 2022  (term avg GPA: 1.767)
+  Section 2: A=28 B=37 C=42 D=26 F=50  Withdrew=85  Avg GPA=1.767
+  Spring 2024  (term avg GPA: 2.064)
+  Section 2: A=28 B=26 C=30 D=30 F=18  Withdrew=40  Avg GPA=2.064
+
+---
+
+PROFESSOR: Olafs Daugulis
+Overall average GPA across all sections and semesters: 2.157
+Semesters taught this course: 4
+
+  Spring 2022  (term avg GPA: 1.922)
+  Section 1: A=38 B=46 C=66 D=67 F=34  Withdrew=47  Avg GPA=1.922
+  Spring 2023  (term avg GPA: 2.231)
+  Section 1: A=51 B=70 C=45 D=58 F=25  Withdrew=74  Avg GPA=2.231
+  Spring 2024  (term avg GPA: 2.161)
+  Section 1: A=52 B=49 C=53 D=60 F=25  Withdrew=63  Avg GPA=2.161
+  Spring 2025  (term avg GPA: 2.316)
+  Section 1: A=58 B=56 C=49 D=32 F=32  Withdrew=76  Avg GPA=2.316
+
+---
+
+PROFESSOR: Loi H Do
+Overall average GPA across all sections and semesters: 3.024
+Semesters taught this course: 2
+
+  Fall 2023  (term avg GPA: 2.875)
+  Section 4: A=11 B=9 C=9 D=3 F=0  Withdrew=2  Avg GPA=2.875
+  Fall 2024  (term avg GPA: 3.174)
+  Section 4: A=7 B=11 C=2 D=1 F=0  Withdrew=3  Avg GPA=3.174
+
+---
+
+PROFESSOR: Scott R Gilbertson
+Overall average GPA across all sections and semesters: 2.994
+Semesters taught this course: 2
+
+  Fall 2021  (term avg GPA: 2.909)
+  Section 4: A=15 B=12 C=9 D=4 F=0  Withdrew=2  Avg GPA=2.909
+  Fall 2022  (term avg GPA: 3.080)
+  Section 4: A=10 B=8 C=5 D=2 F=0  Withdrew=6  Avg GPA=3.08
+
+---
+
+PROFESSOR: Ognjen S Miljanic
+Overall average GPA across all sections and semesters: 1.646
+Semesters taught this course: 4
+
+  Fall 2021  (term avg GPA: 1.335)
+  Section 3: A=14 B=34 C=41 D=50 F=77  Withdrew=73  Avg GPA=1.335
+  Fall 2022  (term avg GPA: 1.653)
+  Section 3: A=15 B=32 C=46 D=37 F=40  Withdrew=34  Avg GPA=1.653
+  Fall 2023  (term avg GPA: 1.797)
+  Section 3: A=10 B=31 C=28 D=29 F=22  Withdrew=22  Avg GPA=1.797
+  Fall 2024  (term avg GPA: 1.798)
+  Section 3: A=22 B=36 C=31 D=35 F=36  Withdrew=87  Avg GPA=1.798
+
+---
+
+PROFESSOR: Crystal Ann Young
+Overall average GPA across all sections and semesters: 1.513
+Semesters taught this course: 3
+
+  Spring 2023  (term avg GPA: 1.256)
+  Section 2: A=6 B=22 C=26 D=35 F=49  Withdrew=54  Avg GPA=1.256
+  Spring 2025  (term avg GPA: 1.687)
+  Section 2: A=23 B=39 C=43 D=42 F=50  Withdrew=79  Avg GPA=1.687
+  Summer 2024  (term avg GPA: 1.596)
+  Section 1: A=3 B=7 C=26 D=11 F=9  Withdrew=27  Avg GPA=1.596
+
+---
+
+PROFESSOR: Vladimir G Zaitsev
+Overall average GPA across all sections and semesters: 1.639
+Semesters taught this course: 2
+
+  Summer 2022  (term avg GPA: 1.307)
+  Section 1: A=10 B=8 C=14 D=25 F=31  Withdrew=11  Avg GPA=1.307
+  Summer 2023  (term avg GPA: 1.972)
+  Section 1: A=14 B=20 C=19 D=12 F=18  Withdrew=9  Avg GPA=1.972
+
+---
+
+============================================================
+
+COURSE: CHEM 3331 / Organic Chemistry I (old course number)
+
+PROFESSOR: Mary B Bean
+Overall average GPA across all sections and semesters: 2.364
+Semesters taught this course: 8
+
+  Fall 2013  (term avg GPA: 2.513)
+  Section 2: A=68 B=82 C=76 D=20 F=18  Withdrew=30  Avg GPA=2.584
+  Section 1: A=71 B=71 C=66 D=36 F=24  Withdrew=25  Avg GPA=2.441
+  Fall 2014  (term avg GPA: 2.560)
+  Section 2: A=62 B=86 C=74 D=23 F=20  Withdrew=27  Avg GPA=2.531
+  Section 1: A=73 B=88 C=89 D=19 F=21  Withdrew=19  Avg GPA=2.589
+  Fall 2015  (term avg GPA: 2.545)
+  Section 2: A=90 B=62 C=70 D=32 F=35  Withdrew=30  Avg GPA=2.473
+  Section 1: A=90 B=84 C=63 D=31 F=25  Withdrew=28  Avg GPA=2.616
+  Fall 2016  (term avg GPA: 2.508)
+  Section 2: A=71 B=103 C=73 D=33 F=23  Withdrew=18  Avg GPA=2.518
+  Section 1: A=76 B=87 C=78 D=31 F=25  Withdrew=23  Avg GPA=2.498
+  Fall 2017  (term avg GPA: 2.537)
+  Section 1: A=59 B=95 C=89 D=21 F=22  Withdrew=16  Avg GPA=2.513
+  Section 2: A=61 B=101 C=75 D=31 F=15  Withdrew=18  Avg GPA=2.56
+  Fall 2018  (term avg GPA: 2.376)
+  Section 2: A=32 B=92 C=71 D=48 F=28  Withdrew=35  Avg GPA=2.193
+  Section 1: A=62 B=92 C=86 D=28 F=15  Withdrew=28  Avg GPA=2.559
+  Fall 2019  (term avg GPA: 2.474)
+  Section 2: A=54 B=76 C=80 D=30 F=31  Withdrew=33  Avg GPA=2.327
+  Section 1: A=74 B=106 C=60 D=28 F=23  Withdrew=14  Avg GPA=2.621
+  Fall 2020  (term avg GPA: 1.397)
+  Section 1: A=49 B=44 C=29 D=0 F=1  Withdrew=26  Avg GPA=1.419
+  Section 2: A=38 B=51 C=30 D=0 F=6  Withdrew=29  Avg GPA=1.376
+
+---
+
+PROFESSOR: Simon G Bott
+Overall average GPA across all sections and semesters: 1.895
+Semesters taught this course: 1
+
+  Spring 2015  (term avg GPA: 1.895)
+  Section 2: A=32 B=53 C=50 D=45 F=45  Withdrew=52  Avg GPA=1.895
+
+---
+
+PROFESSOR: Chengzhi Cai
+Overall average GPA across all sections and semesters: 0.972
+Semesters taught this course: 5
+
+  Fall 2020  (term avg GPA: 0.500)
+  Section 5: A=4 B=8 C=2 D=0 F=0  Withdrew=6  Avg GPA=0.5
+  Spring 2018  (term avg GPA: 1.541)
+  Section 2: A=11 B=18 C=19 D=19 F=34  Withdrew=42  Avg GPA=1.541
+  Spring 2019  (term avg GPA: 1.630)
+  Section 2: A=25 B=18 C=29 D=27 F=47  Withdrew=78  Avg GPA=1.63
+  Spring 2020  (term avg GPA: 0.708)
+  Section 2: A=13 B=35 C=6 D=1 F=0  Withdrew=7  Avg GPA=0.708
+  Spring 2021  (term avg GPA: 0.480)
+  Section 3: A=13 B=15 C=3 D=0 F=0  Withdrew=43  Avg GPA=0.48
+
+---
+
+PROFESSOR: Don M. Coltart
+Overall average GPA across all sections and semesters: 1.953
+Semesters taught this course: 1
+
+  Summer 2015  (term avg GPA: 1.953)
+  Section 1: A=15 B=24 C=28 D=19 F=19  Withdrew=8  Avg GPA=1.953
+
+---
+
+PROFESSOR: Olafs Daugulis
+Overall average GPA across all sections and semesters: 1.750
+Semesters taught this course: 8
+
+  Spring 2014  (term avg GPA: 1.848)
+  Section 1: A=28 B=48 C=35 D=60 F=35  Withdrew=39  Avg GPA=1.848
+  Spring 2015  (term avg GPA: 1.892)
+  Section 1: A=41 B=29 C=39 D=34 F=48  Withdrew=55  Avg GPA=1.892
+  Spring 2016  (term avg GPA: 1.817)
+  Section 1: A=30 B=36 C=34 D=55 F=36  Withdrew=20  Avg GPA=1.817
+  Spring 2017  (term avg GPA: 2.154)
+  Section 1: A=53 B=46 C=58 D=59 F=27  Withdrew=46  Avg GPA=2.154
+  Spring 2018  (term avg GPA: 2.109)
+  Section 1: A=54 B=52 C=60 D=59 F=31  Withdrew=48  Avg GPA=2.109
+  Spring 2019  (term avg GPA: 2.279)
+  Section 1: A=59 B=65 C=67 D=49 F=28  Withdrew=35  Avg GPA=2.279
+  Spring 2020  (term avg GPA: 1.296)
+  Section 1: A=42 B=56 C=17 D=0 F=0  Withdrew=6  Avg GPA=1.296
+  Spring 2021  (term avg GPA: 1.175)
+  Section 2: A=36 B=29 C=11 D=0 F=0  Withdrew=36  Avg GPA=1.286
+  Section 1: A=3 B=5 C=3 D=0 F=0  Withdrew=3  Avg GPA=1.065
+
+---
+
+PROFESSOR: Scott R Gilbertson
+Overall average GPA across all sections and semesters: 2.615
+Semesters taught this course: 11
+
+  Fall 2013  (term avg GPA: 2.426)
+  Section 4: A=5 B=4 C=4 D=3 F=2  Withdrew=0  Avg GPA=2.426
+  Fall 2014  (term avg GPA: 3.449)
+  Section 4: A=12 B=9 C=1 D=1 F=0  Withdrew=3  Avg GPA=3.449
+  Fall 2015  (term avg GPA: 3.064)
+  Section 4: A=13 B=6 C=3 D=3 F=1  Withdrew=1  Avg GPA=3.064
+  Fall 2016  (term avg GPA: 3.259)
+  Section 4: A=18 B=13 C=3 D=0 F=2  Withdrew=4  Avg GPA=3.259
+  Fall 2017  (term avg GPA: 2.961)
+  Section 4: A=26 B=16 C=11 D=4 F=3  Withdrew=5  Avg GPA=2.961
+  Fall 2018  (term avg GPA: 2.784)
+  Section 4: A=13 B=13 C=8 D=6 F=0  Withdrew=0  Avg GPA=2.784
+  Fall 2019  (term avg GPA: 3.218)
+  Section 4: A=13 B=11 C=3 D=2 F=0  Withdrew=3  Avg GPA=3.218
+  Fall 2020  (term avg GPA: 1.945)
+  Section 4: A=9 B=6 C=1 D=0 F=0  Withdrew=0  Avg GPA=2
+  Section 6: A=2 B=3 C=0 D=0 F=0  Withdrew=2  Avg GPA=1.889
+  Summer 2014  (term avg GPA: 2.089)
+  Section 1: A=15 B=30 C=38 D=29 F=8  Withdrew=11  Avg GPA=2.089
+  Summer 2016  (term avg GPA: 2.217)
+  Section 1: A=17 B=29 C=47 D=12 F=12  Withdrew=18  Avg GPA=2.217
+  Summer 2017  (term avg GPA: 2.023)
+  Section 1: A=16 B=25 C=40 D=20 F=17  Withdrew=18  Avg GPA=2.023
+
+---
+
+PROFESSOR: Ognjen S Miljanic
+Overall average GPA across all sections and semesters: 1.986
+Semesters taught this course: 8
+
+  Fall 2013  (term avg GPA: 1.895)
+  Section 3: A=26 B=65 C=55 D=53 F=42  Withdrew=27  Avg GPA=1.895
+  Fall 2014  (term avg GPA: 1.912)
+  Section 3: A=19 B=67 C=61 D=54 F=30  Withdrew=28  Avg GPA=1.912
+  Fall 2015  (term avg GPA: 2.029)
+  Section 3: A=24 B=67 C=74 D=49 F=30  Withdrew=27  Avg GPA=2.029
+  Fall 2016  (term avg GPA: 1.802)
+  Section 3: A=19 B=60 C=70 D=59 F=41  Withdrew=36  Avg GPA=1.802
+  Fall 2017  (term avg GPA: 1.879)
+  Section 3: A=12 B=67 C=94 D=46 F=34  Withdrew=33  Avg GPA=1.879
+  Fall 2018  (term avg GPA: 1.700)
+  Section 3: A=25 B=51 C=64 D=65 F=50  Withdrew=48  Avg GPA=1.7
+  Fall 2019  (term avg GPA: 1.776)
+  Section 3: A=27 B=66 C=77 D=64 F=54  Withdrew=20  Avg GPA=1.776
+  Fall 2020  (term avg GPA: 2.896)
+  Section 3: A=119 B=132 C=0 D=0 F=0  Withdrew=5  Avg GPA=2.896
+
+---
+
+PROFESSOR: Randolph P Thummel
+Overall average GPA across all sections and semesters: 2.047
+Semesters taught this course: 4
+
+  Spring 2014  (term avg GPA: 1.851)
+  Section 2: A=33 B=48 C=45 D=45 F=51  Withdrew=25  Avg GPA=1.851
+  Spring 2015  (term avg GPA: 1.895)
+  Section 2: A=32 B=53 C=50 D=45 F=45  Withdrew=52  Avg GPA=1.895
+  Spring 2016  (term avg GPA: 2.253)
+  Section 2: A=69 B=55 C=47 D=47 F=38  Withdrew=37  Avg GPA=2.253
+  Spring 2017  (term avg GPA: 2.188)
+  Section 2: A=56 B=47 C=41 D=41 F=37  Withdrew=50  Avg GPA=2.188
+
+---
+
+PROFESSOR: Vladimir G Zaitsev
+Overall average GPA across all sections and semesters: 1.429
+Semesters taught this course: 2
+
+  Summer 2020  (term avg GPA: 1.523)
+  Section 1: A=18 B=51 C=7 D=0 F=0  Withdrew=6  Avg GPA=1.523
+  Summer 2021  (term avg GPA: 1.334)
+  Section 1: A=6 B=20 C=27 D=23 F=41  Withdrew=15  Avg GPA=1.334
+
+---
+
+============================================================
+
+COURSE: CHEM 2325 / Organic Chemistry II
+
+PROFESSOR: Mary B Bean
+Overall average GPA across all sections and semesters: 2.380
+Semesters taught this course: 4
+
+  Spring 2022  (term avg GPA: 2.255)
+  Section 1: A=45 B=54 C=60 D=32 F=26  Withdrew=44  Avg GPA=2.252
+  Section 2: A=31 B=48 C=39 D=15 F=25  Withdrew=38  Avg GPA=2.258
+  Spring 2023  (term avg GPA: 2.487)
+  Section 2: A=38 B=34 C=36 D=22 F=14  Withdrew=22  Avg GPA=2.375
+  Section 1: A=76 B=68 C=66 D=19 F=21  Withdrew=45  Avg GPA=2.6
+  Spring 2024  (term avg GPA: 2.298)
+  Section 2: A=29 B=46 C=70 D=23 F=15  Withdrew=33  Avg GPA=2.243
+  Section 1: A=45 B=69 C=99 D=31 F=16  Withdrew=39  Avg GPA=2.353
+  Spring 2025  (term avg GPA: 2.481)
+  Section 2: A=43 B=55 C=68 D=37 F=17  Withdrew=30  Avg GPA=2.308
+  Section 1: A=70 B=82 C=87 D=25 F=9  Withdrew=31  Avg GPA=2.653
+
+---
+
+PROFESSOR: Chengzhi Cai
+Overall average GPA across all sections and semesters: 1.778
+Semesters taught this course: 2
+
+  Fall 2022  (term avg GPA: 1.548)
+  Section 2: A=2 B=8 C=12 D=11 F=9  Withdrew=13  Avg GPA=1.548
+  Fall 2024  (term avg GPA: 2.007)
+  Section 3: A=5 B=15 C=14 D=15 F=3  Withdrew=26  Avg GPA=2.007
+
+---
+
+PROFESSOR: Bradley Carrow
+Overall average GPA across all sections and semesters: 2.722
+Semesters taught this course: 4
+
+  Spring 2022  (term avg GPA: 1.982)
+  Section 3: A=2 B=6 C=4 D=3 F=3  Withdrew=2  Avg GPA=1.982
+  Spring 2023  (term avg GPA: 3.501)
+  Section 5: A=7 B=5 C=0 D=0 F=0  Withdrew=1  Avg GPA=3.501
+  Spring 2024  (term avg GPA: 2.631)
+  Section 3: A=5 B=7 C=2 D=4 F=1  Withdrew=3  Avg GPA=2.631
+  Spring 2025  (term avg GPA: 2.774)
+  Section 3: A=6 B=11 C=3 D=0 F=2  Withdrew=2  Avg GPA=2.774
+
+---
+
+PROFESSOR: Robert Joseph Comito
+Overall average GPA across all sections and semesters: 1.787
+Semesters taught this course: 3
+
+  Fall 2024  (term avg GPA: 1.865)
+  Section 1: A=5 B=7 C=12 D=5 F=8  Withdrew=18  Avg GPA=1.865
+  Spring 2023  (term avg GPA: 1.829)
+  Section 3: A=6 B=6 C=11 D=8 F=8  Withdrew=6  Avg GPA=1.829
+  Spring 2025  (term avg GPA: 1.667)
+  Section 4: A=2 B=3 C=6 D=0 F=6  Withdrew=1  Avg GPA=1.667
+
+---
+
+PROFESSOR: Loi H Do
+Overall average GPA across all sections and semesters: 1.950
+Semesters taught this course: 2
+
+  Fall 2021  (term avg GPA: 1.787)
+  Section 1: A=24 B=35 C=55 D=30 F=42  Withdrew=54  Avg GPA=1.787
+  Fall 2022  (term avg GPA: 2.113)
+  Section 1: A=27 B=21 C=36 D=30 F=13  Withdrew=57  Avg GPA=2.113
+
+---
+
+PROFESSOR: Jeremy A May
+Overall average GPA across all sections and semesters: 3.019
+Semesters taught this course: 1
+
+  Spring 2022  (term avg GPA: 3.019)
+  Section 5: A=9 B=17 C=9 D=0 F=0  Withdrew=1  Avg GPA=3.019
+
+---
+
+PROFESSOR: Crystal Ann Young
+Overall average GPA across all sections and semesters: 1.788
+Semesters taught this course: 3
+
+  Fall 2023  (term avg GPA: 1.833)
+  Section 1: A=16 B=30 C=39 D=36 F=25  Withdrew=90  Avg GPA=1.833
+  Fall 2024  (term avg GPA: 1.823)
+  Section 2: A=4 B=7 C=19 D=11 F=6  Withdrew=19  Avg GPA=1.823
+  Summer 2024  (term avg GPA: 1.708)
+  Section 1: A=1 B=4 C=10 D=5 F=4  Withdrew=10  Avg GPA=1.708
+
+---
+
+============================================================
+
+COURSE: CHEM 3332 / Organic Chemistry II (old course number)
+
+PROFESSOR: Mary B Bean
+Overall average GPA across all sections and semesters: 2.216
+Semesters taught this course: 8
+
+  Spring 2014  (term avg GPA: 2.422)
+  Section 3: A=14 B=12 C=26 D=10 F=5  Withdrew=6  Avg GPA=2.249
+  Section 2: A=29 B=48 C=66 D=18 F=8  Withdrew=11  Avg GPA=2.442
+  Section 1: A=55 B=83 C=87 D=22 F=12  Withdrew=30  Avg GPA=2.574
+  Spring 2015  (term avg GPA: 2.532)
+  Section 2: A=36 B=55 C=89 D=16 F=15  Withdrew=27  Avg GPA=2.396
+  Section 1: A=68 B=69 C=76 D=16 F=12  Withdrew=34  Avg GPA=2.668
+  Spring 2016  (term avg GPA: 2.603)
+  Section 2: A=57 B=76 C=65 D=18 F=16  Withdrew=26  Avg GPA=2.619
+  Section 1: A=67 B=77 C=78 D=21 F=18  Withdrew=31  Avg GPA=2.586
+  Spring 2017  (term avg GPA: 2.569)
+  Section 1: A=72 B=75 C=71 D=25 F=21  Withdrew=40  Avg GPA=2.571
+  Section 2: A=73 B=79 C=82 D=25 F=19  Withdrew=29  Avg GPA=2.567
+  Spring 2018  (term avg GPA: 2.436)
+  Section 2: A=44 B=75 C=77 D=31 F=22  Withdrew=52  Avg GPA=2.355
+  Section 1: A=63 B=64 C=93 D=30 F=16  Withdrew=35  Avg GPA=2.517
+  Spring 2019  (term avg GPA: 2.496)
+  Section 1: A=58 B=88 C=72 D=19 F=25  Withdrew=18  Avg GPA=2.496
+  Section 2: A=48 B=94 C=74 D=28 F=15  Withdrew=27  Avg GPA=2.496
+  Spring 2020  (term avg GPA: 1.373)
+  Section 2: A=38 B=46 C=13 D=0 F=0  Withdrew=11  Avg GPA=1.178
+  Section 1: A=47 B=73 C=13 D=1 F=0  Withdrew=4  Avg GPA=1.569
+  Spring 2021  (term avg GPA: 1.198)
+  Section 1: A=34 B=46 C=12 D=1 F=0  Withdrew=11  Avg GPA=1.207
+  Section 2: A=40 B=34 C=17 D=0 F=0  Withdrew=12  Avg GPA=1.188
+
+---
+
+PROFESSOR: Chengzhi Cai
+Overall average GPA across all sections and semesters: 1.981
+Semesters taught this course: 2
+
+  Spring 2015  (term avg GPA: 1.833)
+  Section 3: A=2 B=2 C=10 D=6 F=2  Withdrew=7  Avg GPA=1.833
+  Spring 2016  (term avg GPA: 2.129)
+  Section 3: A=6 B=8 C=6 D=6 F=5  Withdrew=6  Avg GPA=2.129
+
+---
+
+PROFESSOR: Bradley Carrow
+Overall average GPA across all sections and semesters: 1.031
+Semesters taught this course: 1
+
+  Spring 2021  (term avg GPA: 1.031)
+  Section 4: A=6 B=10 C=7 D=0 F=0  Withdrew=5  Avg GPA=1.031
+
+---
+
+PROFESSOR: Don M. Coltart
+Overall average GPA across all sections and semesters: 2.443
+Semesters taught this course: 9
+
+  Fall 2014  (term avg GPA: 2.163)
+  Section 1: A=11 B=26 C=23 D=13 F=11  Withdrew=14  Avg GPA=2.163
+  Fall 2017  (term avg GPA: 2.162)
+  Section 1: A=16 B=30 C=32 D=22 F=11  Withdrew=10  Avg GPA=2.162
+  Fall 2018  (term avg GPA: 1.456)
+  Section 2: A=2 B=4 C=7 D=11 F=6  Withdrew=13  Avg GPA=1.456
+  Spring 2014  (term avg GPA: 3.068)
+  Section 4: A=6 B=6 C=3 D=0 F=0  Withdrew=0  Avg GPA=3.068
+  Spring 2016  (term avg GPA: 3.368)
+  Section 4: A=9 B=8 C=1 D=1 F=0  Withdrew=1  Avg GPA=3.368
+  Spring 2018  (term avg GPA: 2.907)
+  Section 4: A=13 B=11 C=7 D=5 F=0  Withdrew=2  Avg GPA=2.907
+  Spring 2019  (term avg GPA: 2.175)
+  Section 3: A=9 B=8 C=10 D=8 F=5  Withdrew=4  Avg GPA=2.175
+  Summer 2016  (term avg GPA: 2.419)
+  Section 1: A=8 B=27 C=23 D=8 F=4  Withdrew=3  Avg GPA=2.419
+  Summer 2017  (term avg GPA: 2.266)
+  Section 1: A=12 B=23 C=23 D=14 F=7  Withdrew=3  Avg GPA=2.266
+
+---
+
+PROFESSOR: Robert Joseph Comito
+Overall average GPA across all sections and semesters: 1.277
+Semesters taught this course: 2
+
+  Spring 2020  (term avg GPA: 1.704)
+  Section 3: A=4 B=8 C=3 D=0 F=0  Withdrew=5  Avg GPA=1.704
+  Spring 2021  (term avg GPA: 0.850)
+  Section 3: A=5 B=5 C=4 D=0 F=0  Withdrew=5  Avg GPA=0.85
+
+---
+
+PROFESSOR: Loi H Do
+Overall average GPA across all sections and semesters: 2.060
+Semesters taught this course: 7
+
+  Fall 2013  (term avg GPA: 2.423)
+  Section 2: A=19 B=15 C=11 D=9 F=6  Withdrew=8  Avg GPA=2.423
+  Fall 2014  (term avg GPA: 2.064)
+  Section 2: A=21 B=31 C=33 D=26 F=11  Withdrew=13  Avg GPA=2.064
+  Fall 2015  (term avg GPA: 2.192)
+  Section 2: A=23 B=45 C=38 D=18 F=17  Withdrew=19  Avg GPA=2.192
+  Fall 2016  (term avg GPA: 2.402)
+  Section 1: A=46 B=48 C=41 D=26 F=16  Withdrew=30  Avg GPA=2.402
+  Fall 2018  (term avg GPA: 2.215)
+  Section 1: A=40 B=52 C=66 D=23 F=26  Withdrew=33  Avg GPA=2.215
+  Fall 2019  (term avg GPA: 2.164)
+  Section 1: A=38 B=50 C=53 D=18 F=33  Withdrew=38  Avg GPA=2.164
+  Fall 2020  (term avg GPA: 0.958)
+  Section 1: A=25 B=38 C=8 D=0 F=0  Withdrew=41  Avg GPA=0.958
+
+---
+
+PROFESSOR: T Randall Lee
+Overall average GPA across all sections and semesters: 2.179
+Semesters taught this course: 2
+
+  Summer 2014  (term avg GPA: 2.386)
+  Section 1: A=8 B=12 C=15 D=6 F=3  Withdrew=18  Avg GPA=2.386
+  Summer 2015  (term avg GPA: 1.973)
+  Section 1: A=7 B=11 C=12 D=12 F=6  Withdrew=12  Avg GPA=1.973
+
+---
+
+PROFESSOR: Jeremy A May
+Overall average GPA across all sections and semesters: 2.751
+Semesters taught this course: 7
+
+  Fall 2015  (term avg GPA: 1.768)
+  Section 1: A=7 B=17 C=33 D=17 F=15  Withdrew=34  Avg GPA=1.768
+  Fall 2017  (term avg GPA: 1.910)
+  Section 2: A=9 B=23 C=30 D=23 F=11  Withdrew=43  Avg GPA=1.91
+  Spring 2015  (term avg GPA: 3.454)
+  Section 4: A=9 B=13 C=0 D=0 F=0  Withdrew=0  Avg GPA=3.454
+  Spring 2017  (term avg GPA: 3.275)
+  Section 4: A=9 B=10 C=4 D=0 F=0  Withdrew=3  Avg GPA=3.275
+  Spring 2019  (term avg GPA: 3.184)
+  Section 4: A=12 B=13 C=3 D=1 F=0  Withdrew=1  Avg GPA=3.184
+  Spring 2020  (term avg GPA: 3.200)
+  Section 4: A=10 B=8 C=0 D=0 F=0  Withdrew=0  Avg GPA=3.2
+  Spring 2021  (term avg GPA: 2.463)
+  Section 5: A=8 B=6 C=3 D=0 F=0  Withdrew=0  Avg GPA=2.463
+
+---
+
+PROFESSOR: Randolph P Thummel
+Overall average GPA across all sections and semesters: 2.097
+Semesters taught this course: 1
+
+  Fall 2013  (term avg GPA: 2.097)
+  Section 1: A=33 B=46 C=46 D=32 F=29  Withdrew=25  Avg GPA=2.097
+
+---
+
+============================================================

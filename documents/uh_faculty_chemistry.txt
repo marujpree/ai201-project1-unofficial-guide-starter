@@ -1,0 +1,238 @@
+SOURCE: University of Houston - Department of Chemistry
+URL: https://www.uh.edu/nsm/chemistry/people/faculty/
+SCRAPED: 2026-06-14
+DESCRIPTION: Official list of current Chemistry faculty at UH. Use this to verify which professors
+are actively employed. If a professor's name does not appear here, they are not current faculty.
+
+Note on naming: Loi Do holds the "Mary B. Bean Professor of Chemistry" endowed chair.
+Mary Bean herself is not listed as an active faculty member.
+
+---
+
+Steven Baldelli
+Professor
+sbaldelli@uh.edu
+832-842-8843
+Office:
+SERC, 1024
+Joshua D. Bocarsly
+Assistant Professor & Welch Professor in High Temperature Superconducting & Chemical
+Materials Science
+jdbocars@central.uh.edu
+713-743-4053
+Office:
+STL, 447
+Jakoah Brgoch
+Eby Nell McErath Professor of Chemistry
+jbrgoch@central.uh.edu
+713-743-6233
+Office:
+STL, 430
+Maurice Brookhart
+Professor
+mbrookha@central.uh.edu
+Office:
+STL, 404
+Chengzhi Cai
+Professor
+cai@uh.edu
+713-743-2710
+Office:
+STL, 449
+Edwin Carrasquillo M
+Associate Professor
+mcarrasquillo@uh.edu
+713-743-3230
+Office:
+Fleming, 139G
+Bradley Carrow
+Associate Professor
+bcarrow@central.uh.edu
+713-743-2569
+Office:
+STL, 453
+Tai-Yen Chen
+Associate Professor
+tchen37@central.uh.edu
+713-743-9413
+Office:
+Fleming, 139E
+Naihao Chiang
+Assistant Professor
+nchiang@central.uh.edu
+713-743-6621
+Office:
+Fleming, 139L
+Yeongsu Cho
+Assistant Professor
+ycho22@Central.UH.EDU
+713-743-4587
+Office:
+Fleming, 221
+Robert Comito
+Associate Professor
+rjcomito@central.uh.edu
+713-743-6861
+Office:
+STL, 445
+Arkadiusz Czader
+Instructional Associate Professor
+aczader@uh.edu
+713-743-8841
+Office:
+STL, 320
+Roman Czernuszewicz
+Associate Professor
+roman@uh.edu
+713-743-3235
+Office:
+Fleming, 139F
+Olafs Daugulis
+Robert A. Welch Chair of Chemistry
+olafs@uh.edu
+832-842-8180
+Office:
+STL, 439
+Loi Do
+Mary B. Bean Professor of Chemistry
+loido@uh.edu
+713-743-0373
+Office:
+SERC, 5020
+Gregory Dudley
+Professor and Dean, College of Natural Sciences and Mathematics
+713-743-2611
+Office:
+SR1, 214
+Arnold Guloy
+Moores Professor
+aguloy@uh.edu
+713-743-2792
+Office:
+SERC, 5021
+P. Shiv Halasyamani
+Hugh Roy and Lille Cranz Cullen Distinguished University Chair and Graduate Chair
+psh@uh.edu
+713-743-7716
+Office:
+SR1, 53
+Eva Harth
+Professor and Director of Welch Center of Excellence in Polymer Chemistry
+harth@uh.edu
+713-743-6707
+Office:
+STL, 406
+David Hoffman
+Professor and Department Chair
+hoffman@uh.edu
+713-743-3255
+Office:
+SR1, 22
+Allan Jacobson
+Robert A. Welch Chair of Science
+ajjacob@uh.edu
+713-743-2785
+Office:
+SR1, 14
+Russell Larsen
+Instructional Professor
+rglarsen@uh.edu
+713-743-7968
+Office:
+Fleming, 137D
+Sarah Larsen
+Professor, Vice Provost and Dean of the Graduate School
+sclarsen@uh.edu
+713-743-7948
+Office:
+Cullen, 102C
+Trevor P. Latendresse
+Assistant Professor
+tlatendr@central.uh.edu
+Office:
+SERC, 5026
+T. Randall Lee
+Cullen Distinguished University Chair and Associate Dean for Research
+trlee@uh.edu
+713-743-2724
+Office:
+SERC, 5004
+Vassiliy Lubchenko
+Professor
+vas@uh.edu
+832-842-8853
+Office:
+Fleming, 212D
+Boris Makarenko
+Research Associate Professor
+bmakarenko@uh.edu
+713-743-2582
+Office:
+SR1, 9E
+Jeremy May
+Professor and Associate Dean for Graduate Affairs
+jmay@uh.edu
+832-842-8808
+Office:
+SERC, 5011
+Ognjen Miljanic
+Moores Professor
+miljanic@uh.edu
+832-842-8827
+Office:
+SERC, 5028
+Reginald Mills
+Assistant Professor & Drs. Yao and Song Endowed Professor of Chemistry
+lrmills2@central.uh.edu
+713-743-6821
+Office:
+SERC, 5008
+Thomas Teets
+Russell A. Geanangel Professor of Chemistry
+tteets@uh.edu
+832-842-9132
+Office:
+SERC, 5023
+Yuhong Wang
+Professor
+ywang60@uh.edu
+713-743-7941
+Office:
+SERC, 1019
+Judy Wu
+Thomas A. Albright Professor of Chemistry
+jiwu@central.uh.edu
+713-743-7719
+Office:
+SERC, 5024
+Shoujun Xu
+Professor and Department Associate Chair
+sxu7@uh.edu
+832-842-8828
+Office:
+SERC, 1025
+Ding-Shyue (Jerry) Yang
+Professor
+yang@uh.edu
+713-743-6022
+Office:
+SERC, 1018
+Crystal Young
+Instructional Associate Professor
+cayoung@uh.edu
+713-743-3526
+Office:
+STL, 318
+Vladimir Zaitsev
+Instructional Associate Professor
+vzaitsev@uh.edu
+713-743-8387
+Office:
+STL, 322
+Melissa Zastrow
+Associate Professor
+mzastrow@uh.edu
+713-743-6471
+Office:
+Fleming, 137C
+©

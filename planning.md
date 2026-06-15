@@ -13,7 +13,7 @@
 
 I will chose to research student reviews of Organic Chemistry professors at the University of Houston.
 It's very difficult for pre medical students to find out who is actually the best professor to prepare them correctly for tests and make the course fair. 
-
+Some reviews can be outdated, syllabus can change or professor can implement new policies on a semester basis. Using only rate my professor is not good enough on its own and the extra compilation of different sources will help a student navigate their choice when building their schedule. 
 ---
 
 ## Documents
@@ -49,11 +49,11 @@ It's very difficult for pre medical students to find out who is actually the bes
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-
+300 tokens
 **Overlap:**
-
+50 tokens
 **Reasoning:**
-
+RMP reviews are short and should not be longer than a few sentences. We don't want many tokens used in order to have a chunk that is big enough to answer nd small enough to be precise. Reddit is made up of short comments and posts as well. CougargradesIO is strucutred visual data, and the faculty list is to make sure we are only getting info on professors still there at UH.
 ---
 
 ## Retrieval Approach
@@ -65,10 +65,12 @@ It's very difficult for pre medical students to find out who is actually the bes
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
-
+all-MiniLM-L6-v2 via sentence-transformers
 **Top-k:**
+top-k set to 8 (increased from initial 5 after retrieval testing in Milestone 4 — Crystal Young's GPA chunk was appearing at position 6+ with k=5, so k=8 ensures it lands in the retrieved set for grade-comparison queries)
 
 **Production tradeoff reflection:**
+Since the current model runs locally with no rate limits, it is limited by my machine's computing power. A much better model would be from OpenAI or Anthrophic would be preferred to use if finances we not a problem.
 
 ---
 
@@ -81,11 +83,11 @@ It's very difficult for pre medical students to find out who is actually the bes
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 |  How difficult are Olafs Daugulis's exams in OCHem 1 | Very difficult, which is explained in RMP reviews
+| 2 |  What was the average GPA for CHEM 2323 under Crystal Young? | 1.687 was the average GPA pulled from Cougar Grades IO
+| 3 |  Is Robert Comito or Bradley Carrow better for OChem 2? | 1.667 is the average gpa for comito and for carrow it is 2.774 so by those figures it should be carrow, carrow also has a 2.3 on RMP versus 1.7 rating of carrow 
+| 4 |  Is Mary Bean still teaching Organic Chemistry at UH? | No, or has not taught since Spring 2025 
+| 5 |  Is attendance required for Olaf's OChem lectures? | Yes it is, pulled from RMP reviews
 
 ---
 
@@ -95,11 +97,10 @@ It's very difficult for pre medical students to find out who is actually the bes
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Scraping reviews from Ratemyprofessor vary in terms of quality. Some are detailed with information that are a paragraph long while others are only a sentence long that only express feelings. Incosistent data could also become a problem if a review is years old and the policies or assignments it mentions no longer apply.
 
-2.
+2. Chunks could split a review across a boundary if they discuss different topics. For example, if the first half of the review talks about how many exams there are and the way they are setup and the second half speaks about attendance policy then there could be issues.
 
----
 
 ## Architecture
 
@@ -109,9 +110,14 @@ It's very difficult for pre medical students to find out who is actually the bes
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
+![Diagram](Untitled%20Diagram.drawio.png)
+
 ---
 
 ## AI Tool Plan
+
+The AI tool I will use primarily will be Claude. For ingestion and chunking, I will give Claude my Documents table and Chunking section and ask it to generate a script that scrapes my sources then splits text using RecursiveCharacterTextSplitter with chunk_size=300 and chunk_overlap=50.
+
 
 <!-- For each part of the pipeline below, describe:
      - Which AI tool you plan to use (Claude, Copilot, ChatGPT, etc.)
